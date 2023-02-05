@@ -1,6 +1,4 @@
-# roomBirdies
 
-### Features
 
 1. It allows students to book PG and Hostel rooms online .
 2. Every Hostel and PG in a city can be brought to a single platform making it easy for students to book a room .
